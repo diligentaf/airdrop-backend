@@ -1,12 +1,13 @@
 package handler
 
 import (
+	"time"
+
 	"github.com/arman-aminian/twitter-backend/model"
 	"github.com/arman-aminian/twitter-backend/user"
 	"github.com/arman-aminian/twitter-backend/utils"
 	"github.com/labstack/echo/v4"
 	"go.mongodb.org/mongo-driver/bson/primitive"
-	"time"
 )
 
 type userResponse struct {

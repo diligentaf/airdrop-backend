@@ -106,4 +106,11 @@ to be shared, and other forms of feedback to be told. Any form of these
 contributions would be a huge help to us improving this project. Thank
 you in advance.
 
-- [Moog Kwon](https://github.com/vuegoman)
+## Website and Team
+You can test our website at [Boobier](https://booobier.herokuapp.com/).
+
+Our Team:
+- [Mohammad Mehdi Teymourian](https://github.com/mehditeymorian) (Frontend)
+- [Arman Aminian](https://github.com/arman-aminian) (Backend)
+- And me, [Mohammad Hosein Zarei](https://github.com/mhezarei) (Backend + 
+a small part of frontend!)

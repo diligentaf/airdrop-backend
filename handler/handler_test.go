@@ -2,6 +2,8 @@ package handler
 
 import (
 	"encoding/json"
+	"log"
+
 	"github.com/arman-aminian/twitter-backend/db"
 	"github.com/arman-aminian/twitter-backend/model"
 	"github.com/arman-aminian/twitter-backend/router"
@@ -9,7 +11,6 @@ import (
 	"github.com/arman-aminian/twitter-backend/user"
 	"github.com/labstack/echo/v4"
 	"go.mongodb.org/mongo-driver/mongo"
-	"log"
 )
 
 var (
