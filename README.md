@@ -98,7 +98,7 @@ requests and responses. To generate these docs (automatically with the
 help of [swag](https://github.com/swaggo/swag)), first install the package
 and then run ```swag init```, change the listening hostname to `localhost`
 and then, the resulting documentation is available at 
-[this link](http://localhost:8080/swagger/index.html).
+[this link](http://localhost:8081/swagger/index.html).
 
 ## Contributions
 There are many many bugs to be reported, suggestions to be told, ideas

@@ -3,8 +3,9 @@ package middleware
 import (
 	"errors"
 	"fmt"
-	"github.com/arman-aminian/twitter-backend/utils"
 	"net/http"
+
+	"github.com/arman-aminian/twitter-backend/utils"
 
 	"github.com/dgrijalva/jwt-go"
 	"github.com/labstack/echo/v4"
